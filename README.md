@@ -71,6 +71,7 @@ Note: `donors.txt`, `volunteers.txt`, and a real `users.txt` get generated local
    ```
    cp sample-data/users.txt users.txt
    ```
+   "On Command Prompt, use copy instead of cp."
 3. Compile:
    ```
    g++ -std=c++17 main.cpp -o app
