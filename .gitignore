@@ -1,0 +1,39 @@
+# ===== Compiled binaries =====
+*.exe
+*.out
+*.o
+*.obj
+main
+!sample-data/*.txt
+
+# ===== Runtime-generated data files =====
+donors.txt
+volunteers.txt
+system_report_*.txt
+
+# Note: users.txt is intentionally NOT ignored globally — sample-data/users.txt
+# is a demo login file meant to be committed. Only a real users.txt sitting
+# in the project root (created when you actually run the app) should be
+# ignored, which the rule below handles.
+/users.txt
+
+# ===== IDE / editor clutter =====
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ===== OS-specific junk =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Build directories =====
+build/
+bin/
+Debug/
+Release/
+x64/
+x86/
