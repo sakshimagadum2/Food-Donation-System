@@ -108,7 +108,7 @@ Note: `donors.txt`, `volunteers.txt`, and a real `users.txt` get generated local
 
 ### 🤝 Contributors
 
-- Sakshi Magadum – Project Design & Implementation
+- sakshimagadum2 – Project Design & Implementation
 - Shreya Karasiddagol – Data Handling & File Management
 - Aliya Gaiban – Algorithm Design & Optimization
 - Chetan – Testing & Documentation
