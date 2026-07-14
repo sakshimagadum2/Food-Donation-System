@@ -133,7 +133,7 @@ Note: `donors.txt`, `volunteers.txt`, and a real `users.txt` get generated local
 
 ---
 
-### 🤝 Contributors
+### 🤝 Team Members
 
 - Sakshi Magadum – Project Design & Implementation
 - Shreya Karasiddagol – Data Handling & File Management
