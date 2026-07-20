@@ -21,7 +21,7 @@ It was built as part of our DAA coursework to actually apply the algorithms we s
 
 ---
 
-### 🚀 Key Features
+### 🚀 Key Features 
 
 - 👤 Login system to access the application
 - 🍲 Donor registration, food collection, and quality checks
